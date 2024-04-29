@@ -1,5 +1,5 @@
 baseURL: "http://utgfpafs.github.io"
 languageCode: en-us
-title: My New Hugo Site
+title: UT Geoscientists for Peace and Free Speech
 theme: PaperMod
 ignoreErrors: ["error-remote-getjson"]  #yml or ignoreErrors = ["error-remote-getjson"]  #toml 
