@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Open Letter: Concerned Students and Faculty of the Jackson School of Geological Sciences at University of Texas at Austin on UT Geoscientists for Peace and Free Speech</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Open Letter: Concerned Students and Faculty of the Jackson School of Geological Sciences at University of Texas at Austin on UT Geoscientists for Peace and Free Speech</description>
     <generator>Hugo -- 0.124.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2024 13:19:27 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>//localhost:1313/docs/test/</link>
-      <pubDate>Mon, 29 Apr 2024 13:19:27 -0500</pubDate>
-      <guid>//localhost:1313/docs/test/</guid>
-      <description>This is a test page This is test page!</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
