@@ -1,10 +1,10 @@
 +++
-title = 'Open Letter: Concerned Students, Staff and Faculty of the Jackson School of Geosciences at the University of Texas at Austin'
+title = 'Open Letter: Concerned Students, Staff, and Faculty of the Jackson School of Geosciences at the University of Texas at Austin'
 date = 2024-04-29T13:19:27-05:00
 draft = false
 +++
 
-### Open Letter: Concerned Students, Staff and Faculty of the Jackson School of Geosciences at the University of Texas at Austin
+### Open Letter: Concerned Students, Staff, and Faculty of the Jackson School of Geosciences at the University of Texas at Austin
 
 **The link to sign the statement can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSfz8e5D_yaHvxtq-kApZSYKycTkRdSamRGvIoPbShqBYCihkw/viewform).**
 
