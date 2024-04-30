@@ -1,12 +1,12 @@
 +++
-title = 'Open Letter: Concerned Students and Faculty of the Jackson School of Geological Sciences at University of Texas at Austin'
+title = 'Open Letter: Concerned Students, Staff and Faculty of the Jackson School of Geosciences at the University of Texas at Austin'
 date = 2024-04-29T13:19:27-05:00
 draft = false
 +++
 
-### Open Letter: Concerned Students and Faculty of the Jackson School of Geological Sciences at University of Texas at Austin
+### Open Letter: Concerned Students, Staff and Faculty of the Jackson School of Geosciences at the University of Texas at Austin
 
-The link to sign the statement can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSfz8e5D_yaHvxtq-kApZSYKycTkRdSamRGvIoPbShqBYCihkw/viewform).
+**The link to sign the statement can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSfz8e5D_yaHvxtq-kApZSYKycTkRdSamRGvIoPbShqBYCihkw/viewform).**
 
 We, the undersigned students, faculty, and staff of the Jackson School of Geosciences condemn the actions of Gov. Greg Abbott, President Jay Hartzell, University of Texas at Austin administration, and law enforcement officials on Wednesday, April 24th, which represented a grave and dangerous violation of the principles of academic freedom and free speech. By asking for Texas State Trooper presence and authorizing Texas State Troopers to forcibly arrest nearly 60 peaceful student protesters, colleagues, and friends, President Hartzell has endangered students and undermined the very foundations of our academic community. The unwarranted arrest of student protestors not only disrupts their academic pursuits, and in many cases, threatens their visa status, but also sends a chilling message about the state of free expression within our university.
 
